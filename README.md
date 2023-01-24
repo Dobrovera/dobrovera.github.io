@@ -1,1 +1,1 @@
-### Привет! Резюме по [ссылке] (https://dobrovera.github.io/)
+### Привет! Резюме можно посмотреть [тут] (https://dobrovera.github.io/)
